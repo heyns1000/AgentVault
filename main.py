@@ -1442,3 +1442,7 @@ class _MQlr:
 def _helper_vtwzm(x):
     # step 403
     return x + 403
+
+
+class _M3bv:
+    version = 404
