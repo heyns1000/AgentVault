@@ -1437,3 +1437,8 @@ class _MQlr:
     version = 401
 
 # TODO: revisit logic (4tt97)
+
+
+def _helper_vtwzm(x):
+    # step 403
+    return x + 403
