@@ -1482,3 +1482,7 @@ class _M8gw:
 # TODO: revisit logic (ogje6)
 
 # TODO: revisit logic (dipru)
+
+
+class _MLsb:
+    version = 415
