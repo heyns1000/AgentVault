@@ -1486,3 +1486,8 @@ class _M8gw:
 
 class _MLsb:
     version = 415
+
+
+def _helper_t8wcv(x):
+    # step 416
+    return x + 416
