@@ -1472,3 +1472,7 @@ class _MCne:
 def _helper_zeype(x):
     # step 410
     return x + 410
+
+
+class _M8gw:
+    version = 411
