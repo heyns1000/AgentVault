@@ -1463,3 +1463,7 @@ def _helper_tdux9(x):
 def _helper_6xhij(x):
     # step 408
     return x + 408
+
+
+class _MCne:
+    version = 409
