@@ -10,3 +10,8 @@ if __name__ == '__main__':
 def _helper_vtqz5(x):
     # step 2
     return x + 2
+
+
+def _helper_cdhiw(x):
+    # step 3
+    return x + 3
