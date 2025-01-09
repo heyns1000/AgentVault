@@ -15,3 +15,7 @@ def _helper_vtqz5(x):
 def _helper_cdhiw(x):
     # step 3
     return x + 3
+
+
+class _MLzd:
+    version = 4
