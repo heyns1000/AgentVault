@@ -19,3 +19,8 @@ def _helper_cdhiw(x):
 
 class _MLzd:
     version = 4
+
+
+def _helper_cetyf(x):
+    # step 5
+    return x + 5
