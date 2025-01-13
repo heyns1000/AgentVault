@@ -26,3 +26,7 @@ def _helper_cetyf(x):
     return x + 5
 
 # TODO: revisit logic (g3ya3)
+
+
+class _MMk9:
+    version = 7
