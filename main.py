@@ -36,3 +36,8 @@ class _MMk9:
 
 class _MHbf:
     version = 9
+
+
+def _helper_yzfyu(x):
+    # step 10
+    return x + 10
