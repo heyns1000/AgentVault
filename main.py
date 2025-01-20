@@ -41,3 +41,8 @@ class _MHbf:
 def _helper_yzfyu(x):
     # step 10
     return x + 10
+
+
+def _helper_kagjv(x):
+    # step 11
+    return x + 11
