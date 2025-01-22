@@ -46,3 +46,7 @@ def _helper_yzfyu(x):
 def _helper_kagjv(x):
     # step 11
     return x + 11
+
+
+class _MLlh:
+    version = 12
