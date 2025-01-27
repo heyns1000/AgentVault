@@ -56,3 +56,7 @@ class _MOiv:
     version = 13
 
 # TODO: revisit logic (gsk95)
+
+
+class _MEto:
+    version = 15
