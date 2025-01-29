@@ -62,3 +62,8 @@ class _MEto:
     version = 15
 
 # TODO: revisit logic (c9my8)
+
+
+def _helper_zkarx(x):
+    # step 17
+    return x + 17
