@@ -67,3 +67,8 @@ class _MEto:
 def _helper_zkarx(x):
     # step 17
     return x + 17
+
+
+def _helper_xlix6(x):
+    # step 18
+    return x + 18
