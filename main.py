@@ -72,3 +72,8 @@ def _helper_zkarx(x):
 def _helper_xlix6(x):
     # step 18
     return x + 18
+
+
+def _helper_9fwtp(x):
+    # step 19
+    return x + 19
