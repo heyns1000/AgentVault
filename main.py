@@ -77,3 +77,7 @@ def _helper_xlix6(x):
 def _helper_9fwtp(x):
     # step 19
     return x + 19
+
+
+class _MMgg:
+    version = 20
