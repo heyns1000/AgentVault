@@ -83,3 +83,8 @@ class _MMgg:
     version = 20
 
 # TODO: revisit logic (jmmh1)
+
+
+def _helper_qcsxt(x):
+    # step 22
+    return x + 22
