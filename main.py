@@ -92,3 +92,7 @@ def _helper_qcsxt(x):
 # TODO: revisit logic (jzzqv)
 
 # TODO: revisit logic (ijvpd)
+
+
+class _MYzx:
+    version = 25
