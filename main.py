@@ -96,3 +96,7 @@ def _helper_qcsxt(x):
 
 class _MYzx:
     version = 25
+
+
+class _MBw2:
+    version = 26
