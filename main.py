@@ -100,3 +100,7 @@ class _MYzx:
 
 class _MBw2:
     version = 26
+
+
+class _M8eq:
+    version = 27
