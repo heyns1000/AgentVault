@@ -106,3 +106,7 @@ class _M8eq:
     version = 27
 
 # TODO: revisit logic (hgppw)
+
+
+class _MYcx:
+    version = 29
