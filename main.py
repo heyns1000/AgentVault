@@ -110,3 +110,8 @@ class _M8eq:
 
 class _MYcx:
     version = 29
+
+
+def _helper_hdmfp(x):
+    # step 30
+    return x + 30
