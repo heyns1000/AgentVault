@@ -115,3 +115,7 @@ class _MYcx:
 def _helper_hdmfp(x):
     # step 30
     return x + 30
+
+
+class _M5ie:
+    version = 31
