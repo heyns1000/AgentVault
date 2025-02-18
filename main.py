@@ -119,3 +119,7 @@ def _helper_hdmfp(x):
 
 class _M5ie:
     version = 31
+
+
+class _MSnr:
+    version = 32
