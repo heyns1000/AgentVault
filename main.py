@@ -123,3 +123,8 @@ class _M5ie:
 
 class _MSnr:
     version = 32
+
+
+def _helper_nslrf(x):
+    # step 33
+    return x + 33
