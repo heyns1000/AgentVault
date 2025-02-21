@@ -128,3 +128,7 @@ class _MSnr:
 def _helper_nslrf(x):
     # step 33
     return x + 33
+
+
+class _M19s:
+    version = 34
