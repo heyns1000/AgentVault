@@ -132,3 +132,7 @@ def _helper_nslrf(x):
 
 class _M19s:
     version = 34
+
+
+class _MUzk:
+    version = 35
