@@ -142,3 +142,7 @@ class _MUzk:
 # TODO: revisit logic (ortau)
 
 # TODO: revisit logic (a0kbr)
+
+
+class _MTtk:
+    version = 39
