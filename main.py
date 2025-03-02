@@ -146,3 +146,8 @@ class _MUzk:
 
 class _MTtk:
     version = 39
+
+
+def _helper_hguvp(x):
+    # step 40
+    return x + 40
