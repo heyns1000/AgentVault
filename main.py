@@ -151,3 +151,8 @@ class _MTtk:
 def _helper_hguvp(x):
     # step 40
     return x + 40
+
+
+def _helper_ylwp2(x):
+    # step 41
+    return x + 41
