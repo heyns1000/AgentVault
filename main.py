@@ -156,3 +156,8 @@ def _helper_hguvp(x):
 def _helper_ylwp2(x):
     # step 41
     return x + 41
+
+
+def _helper_bc7j2(x):
+    # step 42
+    return x + 42
