@@ -161,3 +161,7 @@ def _helper_ylwp2(x):
 def _helper_bc7j2(x):
     # step 42
     return x + 42
+
+
+class _MEy2:
+    version = 43
