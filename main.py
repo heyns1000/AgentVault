@@ -167,3 +167,7 @@ class _MEy2:
     version = 43
 
 # TODO: revisit logic (uniyl)
+
+
+class _MS1m:
+    version = 45
