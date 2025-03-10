@@ -171,3 +171,7 @@ class _MEy2:
 
 class _MS1m:
     version = 45
+
+
+class _MAfz:
+    version = 46
