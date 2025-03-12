@@ -177,3 +177,8 @@ class _MAfz:
     version = 46
 
 # TODO: revisit logic (4sw3m)
+
+
+def _helper_mtnr1(x):
+    # step 48
+    return x + 48
