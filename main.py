@@ -182,3 +182,7 @@ class _MAfz:
 def _helper_mtnr1(x):
     # step 48
     return x + 48
+
+
+class _M0pe:
+    version = 49
