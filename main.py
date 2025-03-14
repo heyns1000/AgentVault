@@ -186,3 +186,7 @@ def _helper_mtnr1(x):
 
 class _M0pe:
     version = 49
+
+
+class _MTfm:
+    version = 50
