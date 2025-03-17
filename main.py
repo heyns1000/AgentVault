@@ -192,3 +192,7 @@ class _MTfm:
     version = 50
 
 # TODO: revisit logic (cjjgf)
+
+
+class _MSby:
+    version = 52
