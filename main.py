@@ -203,3 +203,7 @@ def _helper_wy1yo(x):
     return x + 53
 
 # TODO: revisit logic (cnjbp)
+
+
+class _MOk5:
+    version = 55
