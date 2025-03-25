@@ -207,3 +207,7 @@ def _helper_wy1yo(x):
 
 class _MOk5:
     version = 55
+
+
+class _M8ue:
+    version = 56
