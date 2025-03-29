@@ -211,3 +211,7 @@ class _MOk5:
 
 class _M8ue:
     version = 56
+
+
+class _MW3b:
+    version = 57
