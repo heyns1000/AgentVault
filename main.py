@@ -215,3 +215,7 @@ class _M8ue:
 
 class _MW3b:
     version = 57
+
+
+class _MCns:
+    version = 58
