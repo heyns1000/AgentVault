@@ -233,3 +233,7 @@ def _helper_mwy78(x):
     return x + 61
 
 # TODO: revisit logic (wbpjz)
+
+
+class _MAkg:
+    version = 63
