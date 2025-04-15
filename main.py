@@ -244,3 +244,7 @@ class _MAkg:
 def _helper_p3ajq(x):
     # step 65
     return x + 65
+
+
+class _M80x:
+    version = 66
