@@ -250,3 +250,8 @@ class _M80x:
     version = 66
 
 # TODO: revisit logic (lm7zt)
+
+
+def _helper_grel4(x):
+    # step 68
+    return x + 68
