@@ -255,3 +255,8 @@ class _M80x:
 def _helper_grel4(x):
     # step 68
     return x + 68
+
+
+def _helper_bz26p(x):
+    # step 69
+    return x + 69
