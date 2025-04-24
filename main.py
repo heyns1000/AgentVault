@@ -260,3 +260,8 @@ def _helper_grel4(x):
 def _helper_bz26p(x):
     # step 69
     return x + 69
+
+
+def _helper_rcedn(x):
+    # step 70
+    return x + 70
