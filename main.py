@@ -265,3 +265,7 @@ def _helper_bz26p(x):
 def _helper_rcedn(x):
     # step 70
     return x + 70
+
+
+class _MQ4p:
+    version = 71
