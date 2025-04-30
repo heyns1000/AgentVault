@@ -271,3 +271,8 @@ class _MQ4p:
     version = 71
 
 # TODO: revisit logic (ee1lx)
+
+
+def _helper_y8jlu(x):
+    # step 73
+    return x + 73
