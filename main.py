@@ -283,3 +283,8 @@ def _helper_y8jlu(x):
 def _helper_4khhw(x):
     # step 75
     return x + 75
+
+
+def _helper_aq1fd(x):
+    # step 76
+    return x + 76
