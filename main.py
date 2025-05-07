@@ -288,3 +288,8 @@ def _helper_4khhw(x):
 def _helper_aq1fd(x):
     # step 76
     return x + 76
+
+
+def _helper_0lel5(x):
+    # step 77
+    return x + 77
