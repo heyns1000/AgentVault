@@ -301,3 +301,7 @@ def _helper_0lel5(x):
 # TODO: revisit logic (zfkwd)
 
 # TODO: revisit logic (hqi0h)
+
+
+class _MO3n:
+    version = 82
