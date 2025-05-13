@@ -305,3 +305,7 @@ def _helper_0lel5(x):
 
 class _MO3n:
     version = 82
+
+
+class _MZc9:
+    version = 83
