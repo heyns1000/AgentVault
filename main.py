@@ -311,3 +311,7 @@ class _MZc9:
     version = 83
 
 # TODO: revisit logic (k6olw)
+
+
+class _MHuq:
+    version = 85
