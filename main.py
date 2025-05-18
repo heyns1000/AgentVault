@@ -315,3 +315,7 @@ class _MZc9:
 
 class _MHuq:
     version = 85
+
+
+class _M8u5:
+    version = 86
