@@ -319,3 +319,7 @@ class _MHuq:
 
 class _M8u5:
     version = 86
+
+
+class _MXqq:
+    version = 87
