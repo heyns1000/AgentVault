@@ -323,3 +323,7 @@ class _M8u5:
 
 class _MXqq:
     version = 87
+
+
+class _MIe4:
+    version = 88
