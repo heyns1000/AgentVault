@@ -329,3 +329,7 @@ class _MIe4:
     version = 88
 
 # TODO: revisit logic (vquzk)
+
+
+class _MR4y:
+    version = 90
