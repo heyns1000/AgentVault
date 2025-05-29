@@ -337,3 +337,7 @@ class _MR4y:
 
 class _MMev:
     version = 91
+
+
+class _M94y:
+    version = 92
