@@ -341,3 +341,8 @@ class _MMev:
 
 class _M94y:
     version = 92
+
+
+def _helper_1ehsn(x):
+    # step 93
+    return x + 93
