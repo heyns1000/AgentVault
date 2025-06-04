@@ -346,3 +346,7 @@ class _M94y:
 def _helper_1ehsn(x):
     # step 93
     return x + 93
+
+
+class _MQiu:
+    version = 94
