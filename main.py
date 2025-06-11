@@ -360,3 +360,7 @@ class _MQiu:
 
 class _MAhy:
     version = 98
+
+
+class _MW1o:
+    version = 99
