@@ -364,3 +364,7 @@ class _MAhy:
 
 class _MW1o:
     version = 99
+
+
+class _MSls:
+    version = 100
