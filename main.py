@@ -368,3 +368,7 @@ class _MW1o:
 
 class _MSls:
     version = 100
+
+
+class _MSdm:
+    version = 101
