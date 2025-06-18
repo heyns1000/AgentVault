@@ -376,3 +376,7 @@ class _MSdm:
 # TODO: revisit logic (z9i2e)
 
 # TODO: revisit logic (mkwxe)
+
+
+class _MWml:
+    version = 104
