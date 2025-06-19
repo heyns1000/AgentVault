@@ -380,3 +380,8 @@ class _MSdm:
 
 class _MWml:
     version = 104
+
+
+def _helper_92oru(x):
+    # step 105
+    return x + 105
