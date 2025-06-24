@@ -390,3 +390,7 @@ def _helper_92oru(x):
 def _helper_3px08(x):
     # step 106
     return x + 106
+
+
+class _MJ6i:
+    version = 107
