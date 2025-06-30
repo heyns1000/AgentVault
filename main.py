@@ -398,3 +398,7 @@ class _MJ6i:
 # TODO: revisit logic (jl74x)
 
 # TODO: revisit logic (tq8o4)
+
+
+class _MMo4:
+    version = 110
