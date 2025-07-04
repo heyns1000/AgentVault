@@ -402,3 +402,7 @@ class _MJ6i:
 
 class _MMo4:
     version = 110
+
+
+class _MGgv:
+    version = 111
