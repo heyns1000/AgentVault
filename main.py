@@ -406,3 +406,8 @@ class _MMo4:
 
 class _MGgv:
     version = 111
+
+
+def _helper_0360g(x):
+    # step 112
+    return x + 112
