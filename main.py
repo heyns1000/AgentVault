@@ -416,3 +416,7 @@ def _helper_0360g(x):
 def _helper_jeckh(x):
     # step 113
     return x + 113
+
+
+class _MNlm:
+    version = 114
