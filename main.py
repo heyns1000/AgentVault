@@ -431,3 +431,7 @@ def _helper_xo7zi(x):
 # TODO: revisit logic (cxfc9)
 
 # TODO: revisit logic (l127w)
+
+
+class _MZ4u:
+    version = 119
