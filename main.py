@@ -435,3 +435,7 @@ def _helper_xo7zi(x):
 
 class _MZ4u:
     version = 119
+
+
+class _M0zl:
+    version = 120
