@@ -447,3 +447,7 @@ class _M0zl:
 # TODO: revisit logic (1tajj)
 
 # TODO: revisit logic (7swf7)
+
+
+class _MXyn:
+    version = 125
