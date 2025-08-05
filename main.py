@@ -455,3 +455,8 @@ class _MXyn:
 # TODO: revisit logic (ybz0x)
 
 # TODO: revisit logic (9t2rx)
+
+
+def _helper_5pe6z(x):
+    # step 128
+    return x + 128
