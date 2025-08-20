@@ -481,3 +481,7 @@ def _helper_xpo4z(x):
     return x + 133
 
 # TODO: revisit logic (9qxss)
+
+
+class _MDd9:
+    version = 135
