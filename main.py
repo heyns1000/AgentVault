@@ -485,3 +485,7 @@ def _helper_xpo4z(x):
 
 class _MDd9:
     version = 135
+
+
+class _MThv:
+    version = 136
