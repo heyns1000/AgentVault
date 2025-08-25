@@ -504,3 +504,7 @@ def _helper_kvzuy(x):
 def _helper_ygk1s(x):
     # step 139
     return x + 139
+
+
+class _MNum:
+    version = 140
