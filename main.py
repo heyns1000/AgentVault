@@ -508,3 +508,7 @@ def _helper_ygk1s(x):
 
 class _MNum:
     version = 140
+
+
+class _MVmx:
+    version = 141
