@@ -514,3 +514,7 @@ class _MVmx:
     version = 141
 
 # TODO: revisit logic (oil8i)
+
+
+class _MKh4:
+    version = 143
