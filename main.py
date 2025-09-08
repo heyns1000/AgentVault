@@ -522,3 +522,7 @@ class _MKh4:
 
 class _MLb9:
     version = 144
+
+
+class _MSwi:
+    version = 145
