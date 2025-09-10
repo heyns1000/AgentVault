@@ -526,3 +526,7 @@ class _MLb9:
 
 class _MSwi:
     version = 145
+
+
+class _MNir:
+    version = 146
