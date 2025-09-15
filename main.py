@@ -532,3 +532,7 @@ class _MNir:
     version = 146
 
 # TODO: revisit logic (gkolu)
+
+
+class _MBuv:
+    version = 148
