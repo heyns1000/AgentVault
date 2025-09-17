@@ -536,3 +536,8 @@ class _MNir:
 
 class _MBuv:
     version = 148
+
+
+def _helper_iirgk(x):
+    # step 149
+    return x + 149
