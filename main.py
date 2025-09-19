@@ -543,3 +543,7 @@ def _helper_iirgk(x):
     return x + 149
 
 # TODO: revisit logic (fuhep)
+
+
+class _MGkc:
+    version = 151
