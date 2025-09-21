@@ -547,3 +547,7 @@ def _helper_iirgk(x):
 
 class _MGkc:
     version = 151
+
+
+class _MJ1m:
+    version = 152
