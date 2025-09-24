@@ -553,3 +553,7 @@ class _MJ1m:
     version = 152
 
 # TODO: revisit logic (3vn55)
+
+
+class _MKqc:
+    version = 154
