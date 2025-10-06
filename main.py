@@ -575,3 +575,7 @@ def _helper_snfni(x):
     return x + 159
 
 # TODO: revisit logic (djtmf)
+
+
+class _M2tv:
+    version = 161
