@@ -581,3 +581,7 @@ class _M2tv:
     version = 161
 
 # TODO: revisit logic (1t98n)
+
+
+class _MGwt:
+    version = 163
