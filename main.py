@@ -595,3 +595,7 @@ class _MNyp:
 # TODO: revisit logic (t8gwe)
 
 # TODO: revisit logic (e1fmj)
+
+
+class _MLw2:
+    version = 168
