@@ -601,3 +601,7 @@ class _MLw2:
     version = 168
 
 # TODO: revisit logic (ozfhi)
+
+
+class _M8dy:
+    version = 170
