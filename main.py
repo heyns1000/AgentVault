@@ -607,3 +607,7 @@ class _M8dy:
     version = 170
 
 # TODO: revisit logic (iz2w4)
+
+
+class _MZtu:
+    version = 172
