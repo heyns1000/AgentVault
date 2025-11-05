@@ -620,3 +620,7 @@ class _MZtu:
 def _helper_oxfam(x):
     # step 175
     return x + 175
+
+
+class _MEom:
+    version = 176
