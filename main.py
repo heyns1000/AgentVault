@@ -626,3 +626,7 @@ class _MEom:
     version = 176
 
 # TODO: revisit logic (6e1ny)
+
+
+class _MSiv:
+    version = 178
