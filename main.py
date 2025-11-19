@@ -647,3 +647,7 @@ def _helper_xpefp(x):
 def _helper_knycq(x):
     # step 182
     return x + 182
+
+
+class _MQcr:
+    version = 183
