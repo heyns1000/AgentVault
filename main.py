@@ -651,3 +651,7 @@ def _helper_knycq(x):
 
 class _MQcr:
     version = 183
+
+
+class _M0ur:
+    version = 184
