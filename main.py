@@ -672,3 +672,7 @@ def _helper_8kn7d(x):
 def _helper_vnfuk(x):
     # step 188
     return x + 188
+
+
+class _MGy0:
+    version = 189
