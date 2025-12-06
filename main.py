@@ -686,3 +686,8 @@ def _helper_j206n(x):
 def _helper_zaucn(x):
     # step 191
     return x + 191
+
+
+def _helper_zpyfc(x):
+    # step 192
+    return x + 192
