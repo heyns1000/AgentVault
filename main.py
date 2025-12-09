@@ -693,3 +693,7 @@ def _helper_zpyfc(x):
     return x + 192
 
 # TODO: revisit logic (yy7x7)
+
+
+class _MR0j:
+    version = 194
