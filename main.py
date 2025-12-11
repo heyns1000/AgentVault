@@ -697,3 +697,7 @@ def _helper_zpyfc(x):
 
 class _MR0j:
     version = 194
+
+
+class _M8z1:
+    version = 195
