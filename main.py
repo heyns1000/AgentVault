@@ -703,3 +703,7 @@ class _M8z1:
     version = 195
 
 # TODO: revisit logic (g55mz)
+
+
+class _MFab:
+    version = 197
