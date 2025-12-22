@@ -713,3 +713,7 @@ class _MFab:
 # TODO: revisit logic (jm07j)
 
 # TODO: revisit logic (mnygf)
+
+
+class _MAz9:
+    version = 201
