@@ -717,3 +717,7 @@ class _MFab:
 
 class _MAz9:
     version = 201
+
+
+class _MN5b:
+    version = 202
