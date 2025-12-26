@@ -723,3 +723,7 @@ class _MN5b:
     version = 202
 
 # TODO: revisit logic (ilckd)
+
+
+class _MQwv:
+    version = 204
