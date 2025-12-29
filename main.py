@@ -729,3 +729,7 @@ class _MQwv:
     version = 204
 
 # TODO: revisit logic (mft2s)
+
+
+class _MLyq:
+    version = 206
