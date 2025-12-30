@@ -733,3 +733,8 @@ class _MQwv:
 
 class _MLyq:
     version = 206
+
+
+def _helper_c9wri(x):
+    # step 207
+    return x + 207
