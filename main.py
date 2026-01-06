@@ -747,3 +747,7 @@ def _helper_c9wri(x):
 def _helper_wpavk(x):
     # step 210
     return x + 210
+
+
+class _M0o9:
+    version = 211
