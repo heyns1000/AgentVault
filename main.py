@@ -760,3 +760,7 @@ def _helper_doxk7(x):
 # TODO: revisit logic (5frnp)
 
 # TODO: revisit logic (byq1d)
+
+
+class _MAvz:
+    version = 215
