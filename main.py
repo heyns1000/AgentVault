@@ -784,3 +784,7 @@ def _helper_bcxwu(x):
 # TODO: revisit logic (pyilw)
 
 # TODO: revisit logic (krv3u)
+
+
+class _MNyo:
+    version = 223
