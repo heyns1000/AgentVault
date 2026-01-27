@@ -788,3 +788,7 @@ def _helper_bcxwu(x):
 
 class _MNyo:
     version = 223
+
+
+class _MVrc:
+    version = 224
