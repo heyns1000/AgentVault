@@ -792,3 +792,8 @@ class _MNyo:
 
 class _MVrc:
     version = 224
+
+
+def _helper_ydql7(x):
+    # step 225
+    return x + 225
