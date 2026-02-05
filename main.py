@@ -816,3 +816,7 @@ def _helper_ez2qs(x):
     return x + 229
 
 # TODO: revisit logic (elrng)
+
+
+class _MPmo:
+    version = 231
