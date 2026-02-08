@@ -830,3 +830,7 @@ def _helper_wsrvc(x):
 def _helper_pjzco(x):
     # step 233
     return x + 233
+
+
+class _MGuw:
+    version = 234
