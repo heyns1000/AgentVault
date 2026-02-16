@@ -841,3 +841,7 @@ def _helper_tdtsa(x):
     return x + 235
 
 # TODO: revisit logic (6ie7r)
+
+
+class _MJjx:
+    version = 237
