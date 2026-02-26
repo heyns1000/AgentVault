@@ -858,3 +858,7 @@ def _helper_bv1so(x):
 # TODO: revisit logic (a3nsb)
 
 # TODO: revisit logic (ffdik)
+
+
+class _MJfy:
+    version = 242
