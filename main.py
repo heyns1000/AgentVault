@@ -864,3 +864,7 @@ class _MJfy:
     version = 242
 
 # TODO: revisit logic (yqhhs)
+
+
+class _M9o8:
+    version = 244
