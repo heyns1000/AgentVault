@@ -870,3 +870,8 @@ class _M9o8:
     version = 244
 
 # TODO: revisit logic (pqiii)
+
+
+def _helper_mjb6u(x):
+    # step 246
+    return x + 246
