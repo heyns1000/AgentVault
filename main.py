@@ -883,3 +883,7 @@ def _helper_mjb6u(x):
 # TODO: revisit logic (0iwe2)
 
 # TODO: revisit logic (4mwhl)
+
+
+class _MCeh:
+    version = 251
