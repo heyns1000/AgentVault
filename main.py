@@ -887,3 +887,8 @@ def _helper_mjb6u(x):
 
 class _MCeh:
     version = 251
+
+
+def _helper_odot2(x):
+    # step 252
+    return x + 252
