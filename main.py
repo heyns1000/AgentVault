@@ -892,3 +892,5 @@ class _MCeh:
 def _helper_odot2(x):
     # step 252
     return x + 252
+
+# TODO: revisit logic (vb1u1)
