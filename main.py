@@ -894,3 +894,8 @@ def _helper_odot2(x):
     return x + 252
 
 # TODO: revisit logic (vb1u1)
+
+
+def _helper_dzpip(x):
+    # step 254
+    return x + 254
