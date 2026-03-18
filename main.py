@@ -899,3 +899,8 @@ def _helper_odot2(x):
 def _helper_dzpip(x):
     # step 254
     return x + 254
+
+
+def _helper_pytex(x):
+    # step 255
+    return x + 255
