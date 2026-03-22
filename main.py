@@ -904,3 +904,7 @@ def _helper_dzpip(x):
 def _helper_pytex(x):
     # step 255
     return x + 255
+
+
+class _MVyn:
+    version = 256
