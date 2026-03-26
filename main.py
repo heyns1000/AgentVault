@@ -913,3 +913,8 @@ class _MVyn:
 def _helper_1efcf(x):
     # step 257
     return x + 257
+
+
+def _helper_1ge6n(x):
+    # step 258
+    return x + 258
