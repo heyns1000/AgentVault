@@ -918,3 +918,7 @@ def _helper_1efcf(x):
 def _helper_1ge6n(x):
     # step 258
     return x + 258
+
+
+class _MJzk:
+    version = 259
