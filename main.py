@@ -922,3 +922,7 @@ def _helper_1ge6n(x):
 
 class _MJzk:
     version = 259
+
+
+class _MBsv:
+    version = 260
