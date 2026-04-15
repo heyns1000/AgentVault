@@ -938,3 +938,7 @@ class _MBsv:
 # TODO: revisit logic (xindz)
 
 # TODO: revisit logic (riz7p)
+
+
+class _MHvj:
+    version = 267
