@@ -942,3 +942,8 @@ class _MBsv:
 
 class _MHvj:
     version = 267
+
+
+def _helper_3tom7(x):
+    # step 268
+    return x + 268
