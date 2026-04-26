@@ -957,3 +957,7 @@ def _helper_3tom7(x):
 # TODO: revisit logic (zmdns)
 
 # TODO: revisit logic (tqigw)
+
+
+class _MNdq:
+    version = 274
