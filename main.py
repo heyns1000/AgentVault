@@ -969,3 +969,8 @@ class _M0lt:
 
 class _MEep:
     version = 276
+
+
+def _helper_ld1h7(x):
+    # step 277
+    return x + 277
