@@ -974,3 +974,7 @@ class _MEep:
 def _helper_ld1h7(x):
     # step 277
     return x + 277
+
+
+class _MD5s:
+    version = 278
