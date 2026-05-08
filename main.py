@@ -980,3 +980,7 @@ class _MD5s:
     version = 278
 
 # TODO: revisit logic (9ejet)
+
+
+class _MVs7:
+    version = 280
