@@ -991,3 +991,7 @@ class _MVs7:
 def _helper_vjiqc(x):
     # step 282
     return x + 282
+
+
+class _MAxm:
+    version = 283
