@@ -1000,3 +1000,7 @@ class _MAxm:
 def _helper_sddqc(x):
     # step 284
     return x + 284
+
+
+class _MHlc:
+    version = 285
