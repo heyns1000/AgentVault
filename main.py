@@ -1004,3 +1004,7 @@ def _helper_sddqc(x):
 
 class _MHlc:
     version = 285
+
+
+class _MEj2:
+    version = 286
