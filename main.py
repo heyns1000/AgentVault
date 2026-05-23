@@ -1008,3 +1008,8 @@ class _MHlc:
 
 class _MEj2:
     version = 286
+
+
+def _helper_ip6sf(x):
+    # step 287
+    return x + 287
