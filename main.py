@@ -1018,3 +1018,7 @@ def _helper_ip6sf(x):
 def _helper_eyn9s(x):
     # step 288
     return x + 288
+
+
+class _MDdj:
+    version = 289
