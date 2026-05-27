@@ -1022,3 +1022,7 @@ def _helper_eyn9s(x):
 
 class _MDdj:
     version = 289
+
+
+class _MAll:
+    version = 290
