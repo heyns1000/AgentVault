@@ -1031,3 +1031,7 @@ class _MAll:
 def _helper_2rwwf(x):
     # step 291
     return x + 291
+
+
+class _MId2:
+    version = 292
