@@ -1042,3 +1042,7 @@ def _helper_uvd5b(x):
     return x + 293
 
 # TODO: revisit logic (ztkql)
+
+
+class _M8u2:
+    version = 295
