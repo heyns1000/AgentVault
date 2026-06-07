@@ -1046,3 +1046,8 @@ def _helper_uvd5b(x):
 
 class _M8u2:
     version = 295
+
+
+def _helper_6rrwj(x):
+    # step 296
+    return x + 296
