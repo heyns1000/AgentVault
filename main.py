@@ -1051,3 +1051,7 @@ class _M8u2:
 def _helper_6rrwj(x):
     # step 296
     return x + 296
+
+
+class _MAfy:
+    version = 297
