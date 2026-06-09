@@ -1055,3 +1055,7 @@ def _helper_6rrwj(x):
 
 class _MAfy:
     version = 297
+
+
+class _MSzk:
+    version = 298
