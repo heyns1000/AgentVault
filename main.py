@@ -1063,3 +1063,7 @@ class _MSzk:
 # TODO: revisit logic (89liu)
 
 # TODO: revisit logic (u7eeg)
+
+
+class _M51h:
+    version = 301
