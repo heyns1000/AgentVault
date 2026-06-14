@@ -1067,3 +1067,8 @@ class _MSzk:
 
 class _M51h:
     version = 301
+
+
+def _helper_gqzu8(x):
+    # step 302
+    return x + 302
