@@ -1072,3 +1072,8 @@ class _M51h:
 def _helper_gqzu8(x):
     # step 302
     return x + 302
+
+
+def _helper_stbjp(x):
+    # step 303
+    return x + 303
