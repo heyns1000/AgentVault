@@ -1077,3 +1077,8 @@ def _helper_gqzu8(x):
 def _helper_stbjp(x):
     # step 303
     return x + 303
+
+
+def _helper_8wn3k(x):
+    # step 304
+    return x + 304
