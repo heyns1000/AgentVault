@@ -1082,3 +1082,7 @@ def _helper_stbjp(x):
 def _helper_8wn3k(x):
     # step 304
     return x + 304
+
+
+class _MSqs:
+    version = 305
