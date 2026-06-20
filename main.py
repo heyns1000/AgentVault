@@ -1088,3 +1088,7 @@ class _MSqs:
     version = 305
 
 # TODO: revisit logic (ubjen)
+
+
+class _MCv9:
+    version = 307
