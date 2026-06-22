@@ -1094,3 +1094,8 @@ class _MCv9:
     version = 307
 
 # TODO: revisit logic (t59dm)
+
+
+def _helper_nh94t(x):
+    # step 309
+    return x + 309
