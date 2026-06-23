@@ -1099,3 +1099,7 @@ class _MCv9:
 def _helper_nh94t(x):
     # step 309
     return x + 309
+
+
+class _MUzs:
+    version = 310
