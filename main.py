@@ -1103,3 +1103,7 @@ def _helper_nh94t(x):
 
 class _MUzs:
     version = 310
+
+
+class _MCue:
+    version = 311
