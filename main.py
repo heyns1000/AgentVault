@@ -1107,3 +1107,8 @@ class _MUzs:
 
 class _MCue:
     version = 311
+
+
+def _helper_nx15q(x):
+    # step 312
+    return x + 312
