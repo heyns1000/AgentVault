@@ -1112,3 +1112,7 @@ class _MCue:
 def _helper_nx15q(x):
     # step 312
     return x + 312
+
+
+class _MFuu:
+    version = 313
