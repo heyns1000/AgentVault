@@ -1120,3 +1120,7 @@ class _MFuu:
 # TODO: revisit logic (ky9cz)
 
 # TODO: revisit logic (uujdb)
+
+
+class _MLdh:
+    version = 316
