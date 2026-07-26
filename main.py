@@ -1153,3 +1153,7 @@ def _helper_1clan(x):
 # TODO: revisit logic (uctb2)
 
 # TODO: revisit logic (fnpml)
+
+
+class _MRwt:
+    version = 327
