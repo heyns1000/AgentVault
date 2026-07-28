@@ -1159,3 +1159,7 @@ class _MRwt:
     version = 327
 
 # TODO: revisit logic (aksqk)
+
+
+class _MZvn:
+    version = 329
