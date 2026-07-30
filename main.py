@@ -1163,3 +1163,7 @@ class _MRwt:
 
 class _MZvn:
     version = 329
+
+
+class _M5lh:
+    version = 330
