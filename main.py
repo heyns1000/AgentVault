@@ -1184,3 +1184,7 @@ def _helper_tohin(x):
     return x + 335
 
 # TODO: revisit logic (l11cv)
+
+
+class _M2xt:
+    version = 337
