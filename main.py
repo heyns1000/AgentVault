@@ -1200,3 +1200,8 @@ def _helper_sob4c(x):
     return x + 339
 
 # TODO: revisit logic (btdg7)
+
+
+def _helper_ll1pe(x):
+    # step 341
+    return x + 341
