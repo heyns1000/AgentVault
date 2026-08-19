@@ -1205,3 +1205,8 @@ def _helper_sob4c(x):
 def _helper_ll1pe(x):
     # step 341
     return x + 341
+
+
+def _helper_p0rhu(x):
+    # step 342
+    return x + 342
