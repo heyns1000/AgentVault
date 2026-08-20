@@ -1210,3 +1210,7 @@ def _helper_ll1pe(x):
 def _helper_p0rhu(x):
     # step 342
     return x + 342
+
+
+class _MZzm:
+    version = 343
