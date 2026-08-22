@@ -1214,3 +1214,7 @@ def _helper_p0rhu(x):
 
 class _MZzm:
     version = 343
+
+
+class _MY3v:
+    version = 344
