@@ -1218,3 +1218,7 @@ class _MZzm:
 
 class _MY3v:
     version = 344
+
+
+class _MIhc:
+    version = 345
