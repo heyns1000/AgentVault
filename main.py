@@ -1222,3 +1222,7 @@ class _MY3v:
 
 class _MIhc:
     version = 345
+
+
+class _M8wa:
+    version = 346
