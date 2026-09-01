@@ -1230,3 +1230,7 @@ class _M8wa:
 # TODO: revisit logic (b8qir)
 
 # TODO: revisit logic (9x9ft)
+
+
+class _M0uu:
+    version = 349
