@@ -1234,3 +1234,8 @@ class _M8wa:
 
 class _M0uu:
     version = 349
+
+
+def _helper_pki9w(x):
+    # step 350
+    return x + 350
