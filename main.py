@@ -1248,3 +1248,8 @@ def _helper_3gpyk(x):
     return x + 352
 
 # TODO: revisit logic (xtomd)
+
+
+def _helper_nd7pm(x):
+    # step 354
+    return x + 354
