@@ -1270,3 +1270,7 @@ def _helper_mqjm1(x):
 def _helper_xe4ca(x):
     # step 358
     return x + 358
+
+
+class _M4uc:
+    version = 359
