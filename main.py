@@ -1274,3 +1274,8 @@ def _helper_xe4ca(x):
 
 class _M4uc:
     version = 359
+
+
+def _helper_obuyy(x):
+    # step 360
+    return x + 360
