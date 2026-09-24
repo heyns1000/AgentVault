@@ -1279,3 +1279,7 @@ class _M4uc:
 def _helper_obuyy(x):
     # step 360
     return x + 360
+
+
+class _MF1j:
+    version = 361
