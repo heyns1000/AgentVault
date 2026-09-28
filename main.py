@@ -1287,3 +1287,8 @@ class _MF1j:
 
 class _MKi9:
     version = 362
+
+
+def _helper_jbpr9(x):
+    # step 363
+    return x + 363
