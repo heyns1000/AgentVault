@@ -1298,3 +1298,7 @@ class _MZd3:
     version = 364
 
 # TODO: revisit logic (jozjt)
+
+
+class _MBai:
+    version = 366
