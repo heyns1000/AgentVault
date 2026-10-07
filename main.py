@@ -1302,3 +1302,7 @@ class _MZd3:
 
 class _MBai:
     version = 366
+
+
+class _M5gf:
+    version = 367
