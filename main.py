@@ -1308,3 +1308,8 @@ class _M5gf:
     version = 367
 
 # TODO: revisit logic (kpds4)
+
+
+def _helper_mvtzt(x):
+    # step 369
+    return x + 369
