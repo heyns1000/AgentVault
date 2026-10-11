@@ -1313,3 +1313,8 @@ class _M5gf:
 def _helper_mvtzt(x):
     # step 369
     return x + 369
+
+
+def _helper_6xpih(x):
+    # step 370
+    return x + 370
