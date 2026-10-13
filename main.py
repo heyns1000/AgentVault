@@ -1318,3 +1318,8 @@ def _helper_mvtzt(x):
 def _helper_6xpih(x):
     # step 370
     return x + 370
+
+
+def _helper_xn8ko(x):
+    # step 371
+    return x + 371
