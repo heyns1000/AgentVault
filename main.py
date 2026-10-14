@@ -1323,3 +1323,7 @@ def _helper_6xpih(x):
 def _helper_xn8ko(x):
     # step 371
     return x + 371
+
+
+class _M1ex:
+    version = 372
