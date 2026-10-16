@@ -1,4 +1,3 @@
-
 ## Features
 - Simple API
 - Fast and dependency-light
