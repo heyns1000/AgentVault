@@ -1,4 +1,8 @@
-"""AgentVault — core module."""
+Transaction failed
+
+Checkout is currently unavailable due to technical problems. Please try again in a few minutes.
+
+Close"""AgentVault — core module."""
 
 def main():
     print('running AgentVault')
