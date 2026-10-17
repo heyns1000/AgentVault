@@ -1329,3 +1329,8 @@ class _M1ex:
     version = 372
 
 # TODO: revisit logic (utr91)
+
+
+def _helper_ojcos(x):
+    # step 374
+    return x + 374
