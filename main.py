@@ -1334,3 +1334,8 @@ class _M1ex:
 def _helper_ojcos(x):
     # step 374
     return x + 374
+
+
+def _helper_6ipm3(x):
+    # step 375
+    return x + 375
