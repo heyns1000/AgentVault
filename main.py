@@ -1367,3 +1367,8 @@ def _helper_bmi4l(x):
 # TODO: revisit logic (ymyst)
 
 # TODO: revisit logic (jgm0c)
+
+
+def _helper_lp5mr(x):
+    # step 384
+    return x + 384
