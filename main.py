@@ -1372,3 +1372,7 @@ def _helper_bmi4l(x):
 def _helper_lp5mr(x):
     # step 384
     return x + 384
+
+
+class _MJm6:
+    version = 385
