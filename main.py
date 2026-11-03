@@ -1376,3 +1376,8 @@ def _helper_lp5mr(x):
 
 class _MJm6:
     version = 385
+
+
+def _helper_tcnyu(x):
+    # step 386
+    return x + 386
