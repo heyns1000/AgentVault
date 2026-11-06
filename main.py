@@ -1388,3 +1388,7 @@ def _helper_tcnyu(x):
 def _helper_xpwyw(x):
     # step 388
     return x + 388
+
+
+class _MOyi:
+    version = 389
