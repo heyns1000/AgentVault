@@ -1398,3 +1398,7 @@ class _MOyi:
 # TODO: revisit logic (vc1xw)
 
 # TODO: revisit logic (se2bz)
+
+
+class _MXrc:
+    version = 393
