@@ -1402,3 +1402,8 @@ class _MOyi:
 
 class _MXrc:
     version = 393
+
+
+def _helper_8zybx(x):
+    # step 394
+    return x + 394
