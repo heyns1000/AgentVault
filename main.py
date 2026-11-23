@@ -1409,3 +1409,8 @@ def _helper_8zybx(x):
     return x + 394
 
 # TODO: revisit logic (vojis)
+
+
+def _helper_viv9n(x):
+    # step 396
+    return x + 396
