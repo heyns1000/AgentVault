@@ -1431,3 +1431,7 @@ def _helper_uir83(x):
 def _helper_0wn1e(x):
     # step 400
     return x + 400
+
+
+class _MQlr:
+    version = 401
